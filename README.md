@@ -32,7 +32,7 @@ To set up and run the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Moksh91119/whatsapp-chat-analyzer.git
+    git clone https://github.com/Harsh-0808/whatsapp-chat-analyzer.git
     ```
 
 2. **Navigate to the project directory**:
