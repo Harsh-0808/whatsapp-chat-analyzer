@@ -65,9 +65,7 @@ To set up and run the project locally, follow these steps:
 
 If you have any questions or need further assistance, feel free to contact me:
 
-- **Email**: [jainmoksh03@gmail.com](mailto:jainmoksh03@gmail.com)
-- **Portfolio**: [itsmemoksh.in](https://itsmemoksh.in/) - Explore my other projects!
-
+- **Email**: [lakdawalaharsh678@gmail.com](mailto:lakdawalaharsh678@gmail.com)
 ---
 
 Contributions and feedback are welcome! Feel free to open issues or submit pull requests.
